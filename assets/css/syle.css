@@ -165,6 +165,11 @@ section h2{
   }
 }
 
+.sombra-header{
+  background-color: var(--clr-black);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
 header{
   display: flex;
   align-items: center;
@@ -172,7 +177,6 @@ header{
   background-color: var(--clr-black);
   color: var(--clr-white);
   padding: 1rem 1.5rem;
-  box-shadow: 0px 4px 4px rgba(0,0, 0, 0.2);
   max-width: 1180px;
   margin: 0 auto;
 }
