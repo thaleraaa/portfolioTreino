@@ -169,7 +169,7 @@ header{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: black;
+  background-color: var(--clr-black);
   color: var(--clr-white);
   padding: 1rem 1.5rem;
   box-shadow: 0px 4px 4px rgba(0,0, 0, 0.2);
